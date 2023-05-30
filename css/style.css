@@ -1,0 +1,46 @@
+body {
+    background-color: #357DED;
+}
+.earlyfooter1 {
+    background-color: #56EEF4;
+    border: 2px solid white;
+    color: white;
+    margin: 10px;
+    padding: 2.390%; 
+    text-align: center;
+    }
+.clearwhite {
+        background-color: white;
+        border: 2px solid black;
+        margin: 10px;
+        padding: 2.390%;
+        text-align: center;
+    }
+.clearead {
+        background-color: #B24C63;
+        border: 2px solid black;
+        margin: 10px;
+        padding: 2.390%;
+        text-align: center;
+    }
+.clearpurp {
+        background-color: #5438DC;
+        color: white;
+        border: 2px solid black;
+        margin: 10px;
+        padding: 2.390%;
+        text-align: center;
+    }
+.nav1 {
+    background-color: #32E875;
+    border: 2px solid black;
+    list-style-type: circle ;
+    text-align: center;
+    padding-block: .750%;
+    margin: 10px;
+}
+.nav li {
+    display: inline-block;
+    font-size: 015px;
+    padding: 3px;
+}
